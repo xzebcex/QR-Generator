@@ -3,7 +3,7 @@
 ## Description
 This is a simple script that generates a QR code from user input. It enables the user to encode text into a QR code, which can then be saved as a PNG image file.
 
-##Table of Contents
+## Table of Contents
 1.	Prerequisites
 2.	Usage
 3.	Output
@@ -16,7 +16,7 @@ This is a simple script that generates a QR code from user input. It enables the
 •	png
 
 ## Usage
-1. Git clone https://github.com/user/qr-code-generator.git to your local machine.
+1. Git clone https://github.com/xzebcex/qr-code-generator.git to your local machine.
 2. Go to the following directory: cd qr-code-generator
 3. Execute the following script: python qr code generator.py
 4. When prompted, enter the text you want to encode in the QR code.
